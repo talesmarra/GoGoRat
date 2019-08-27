@@ -1,10 +1,11 @@
 # GoGoRat
 
 ### AI developed for the PyRat Game, winner of the competition between AI's in 2019.
-![](https://www.google.com/search?biw=1366&bih=631&tbm=isch&sa=1&ei=IP5kXeWMC4HqaN7Cn5AB&q=image+pyrat+game+telecom+bretagne&oq=image+pyrat+game+telecom+bretagne&gs_l=img.3...4381.8174..8587...0.0..0.80.995.17......0....1..gws-wiz-img.ZJY42ci_R2k&ved=0ahUKEwjlnJq15KLkAhUBNRoKHV7hBxIQ4dUDCAY&uact=5#imgrc=FzfKFOScaipSlM:)
+![rat](https://user-images.githubusercontent.com/46964784/63762989-20be5300-c8c4-11e9-8903-bb7302067c9f.jpeg)
 
 This AI combines a Supervised Approach with a CGT (Combinatorial Game Theory) approach in order to obtain maximum performance,
 not only against the greedy algorithm but also against other types of AI.The supervised learning model was trained using games of the greedy algorithm against itself, but also against a reinforcement learning algorithm trained against the greedy, in order to increase robustness.
+Achieved performance against the greedy: 72% wins.
 
 Please cite you use this code.
 
