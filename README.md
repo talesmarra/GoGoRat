@@ -23,4 +23,4 @@ After that you just have to launch the game choosing as your AI GoGoRat, like th
 
 
 
-The PyRat original game the credits are available in https://github.com/vgripon. Please, follow the instructions in the same link for install the game before run the Reiforcement Learning IA.
+The PyRat original game the credits are available in https://github.com/vgripon. Please, follow the instructions in the same link for install the game before run the GoGoRat IA.
